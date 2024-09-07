@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const Portfolio = () => {
   return (
-    <div>
+    <Layout>
       Portfolio
-    </div>
+    </Layout>
   );
 };
 

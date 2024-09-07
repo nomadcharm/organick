@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const Changelog = () => {
   return (
-    <div>
-      
-    </div>
+    <Layout>
+      Changelog
+    </Layout>
   );
 };
 

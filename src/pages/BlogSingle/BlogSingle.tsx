@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const BlogSingle = () => {
   return (
-    <div>
-      
-    </div>
+    <Layout>
+      Blog Post
+    </Layout>
   );
 };
 

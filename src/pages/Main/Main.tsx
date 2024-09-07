@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const Main = () => {
   return (
-    <div>
-      Main
-    </div>
+    <Layout>
+      Main Page
+    </Layout>
   );
 };
 

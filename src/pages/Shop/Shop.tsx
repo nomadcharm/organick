@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const Shop = () => {
   return (
-    <div>
+    <Layout>
       Shop
-    </div>
+    </Layout>
   );
 };
 

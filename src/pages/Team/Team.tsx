@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const Team = () => {
   return (
-    <div>
-      Team
-    </div>
+    <Layout>
+    Team
+  </Layout>
   );
 };
 

@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const ServicesSingle = () => {
   return (
-    <div>
+    <Layout>
       Services Single
-    </div>
+    </Layout>
   );
 };
 

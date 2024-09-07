@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout/Layout";
+
 const Licences = () => {
   return (
-    <div>
+    <Layout>
       Licences
-    </div>
+    </Layout>
   );
 };
 
