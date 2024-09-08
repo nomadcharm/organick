@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yellowtail&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --clr-blue-dianne: #274c5b;
+  --clr-acapulco: #7eb693;
+  --clr-golden-sand: #efd372;
+  --clr-alto: #d4d4d4;
+  --clr-alto-light: #e0e0e0;
+  --clr-alabaster: #f9f8f8;
+  --clr-alabaster-light: #fafafa;
+  --clr-saltpan: #eff6f1;
+  --clr-abbey: #525c60;
+
+  /* with opacity */
+  --clr-white-90: #ffffffe5;
+
+  /* fonts */
+  --font-roboto: "Roboto", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --font-yellowtail: "Yellowtail", cursive, sans-serif;
+}
+
 html {
   box-sizing: border-box;
 }
