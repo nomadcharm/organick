@@ -24,5 +24,5 @@ npm run preview
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
+- [TailwindCss](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
